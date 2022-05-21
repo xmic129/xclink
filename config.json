@@ -1,6 +1,6 @@
 {
 	"blog": {
-		"blogger_id": "1470278311640217579",
+		"blogger_id": "9187298430593011943",
 		"api_key": "AIzaSyBk_4m-AhcRxGt_sDwLB8F6YJBYn-mXUKQ",
 		"api_key0": "AIzaSyBk_4m-AhcRxGt_sDwLB8F6YJBYn-mXUKQ",
 		"api_key1": "AIzaSyBMLTd19G4r3Zhh4gMzCKXsbBNhPvkHuUw",
@@ -29,7 +29,7 @@
 		
 	},
 	"app": {
-		"lock": false,
+		"lock": true,
 		"status": "1",
 		"status1": "1",
 		"more_apps_url": "https://play.google.com/store/apps/developer?id=Saw+Kyaw++Htin+Hah",
